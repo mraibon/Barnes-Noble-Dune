@@ -5,3 +5,6 @@ Track the price of the [Dune 3-Book set](https://www.barnesandnoble.com/w/frank-
 
 ## Tools
 Jupyter Notebook - Python
+
+## Python
+[Notebook Link](https://github.com/mraibon/Barnes-Noble-Dune/blob/e744290d911c671cd6f2ccef44bbc8862cb184fb/Barnes%20and%20Noble%20Web%20Scraper%20-%20Dune%20Trilogy.ipynb)
